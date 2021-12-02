@@ -77,12 +77,12 @@ final List<Content> previews = [
 
 final List<Content> recommended = [
   Content(name: 'Violet Evergarden', imageUrl: Assets.violetEvergarden),
-  Content(name: 'Breaking Bad', imageUrl: Assets.breakingBad),
+  Content(name: 'Sintel', imageUrl: Assets.sintel),
   Content(name: 'How to Sell Drugs Online (Fast)', imageUrl: Assets.htsdof),
   Content(name: 'Kakegurui', imageUrl: Assets.kakegurui),
   Content(name: 'Black Mirror', imageUrl: Assets.blackMirror),
   Content(name: 'Violet Evergarden', imageUrl: Assets.violetEvergarden),
-  Content(name: 'Breaking Bad', imageUrl: Assets.breakingBad),
+  Content(name: 'Sintel', imageUrl: Assets.sintel),
   Content(name: 'How to Sell Drugs Online (Fast)', imageUrl: Assets.htsdof),
   Content(name: 'Kakegurui', imageUrl: Assets.kakegurui),
   Content(name: 'Black Mirror', imageUrl: Assets.blackMirror),
